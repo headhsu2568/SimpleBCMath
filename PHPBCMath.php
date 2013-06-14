@@ -90,5 +90,4 @@ function bcsub($left_operand, $right_operand, $scale=7) {
     if($negtive === true) return "-".$left.".".$right;
     else return $left.".".$right;
 }
-
 ?>
